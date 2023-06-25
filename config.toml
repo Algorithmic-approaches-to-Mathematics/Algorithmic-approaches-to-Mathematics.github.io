@@ -1,5 +1,5 @@
 title = "Algorithmic Approaches to Mathematics"
-baseURL = "https://gohugo-theme-ananke.pages.dev"
+baseURL = "https://algorithmic-approaches-to-mathematics.github.io/"
 languageCode = "en-us"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 resourceDir = "../resources"
