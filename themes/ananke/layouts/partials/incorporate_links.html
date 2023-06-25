@@ -1,0 +1,8 @@
+{{ range site.RegularPages }}
+{{ $href := .RelPermalink }}
+{{ with .Params.relPermalinkOverride }}
+{{ $href = . }}
+{{ end }}
+<h2><a href="{{ $href }}">{{ .Title }}</a></h2>
+{{ .Summary }}
+{{ end }}

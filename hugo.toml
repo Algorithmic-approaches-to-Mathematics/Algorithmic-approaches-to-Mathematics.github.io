@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-gb'
+title = 'Algorithmic approaches to Mathematics'
+theme = 'ananke'
