@@ -9,11 +9,35 @@ summary: '![image](https://user-images.githubusercontent.com/6933510/91439734-c5
 
 
 
-- *Installation instructions are copied fairly directly from the [similarly structured MIT course](https://computationalthinking.mit.edu/Fall23/installation/)*. Thanks for doing my work for me!
+<!-- {{< figure src="https://imgs.xkcd.com/comics/installing_2x.png" width="200" title=">Click for installation instructions" link="../../prerequisites/installation" attr="Attribution: [xkcd 1367](https://imgs.xkcd.com/comics/installing_2x.png)" >}} -->
+{{< figure src="https://imgs.xkcd.com/comics/installing_2x.png" width="200" attr="Attribution: [xkcd 1367](https://imgs.xkcd.com/comics/installing_2x.png)" >}}
 
-    
 
-# First-time setup: Install Julia & Pluto
+# On the lab computers
+
+Easiest is to watch this [video](https://drive.google.com/file/d/1wxzqYspjSPsyIxDBvxaRhhCFLAR_FJmA/view?usp=drive_link), courtesy of your wonderful TA: Enrico Caprioglio!
+
+But if you prefer written instructions...
+1. Open software hub
+2. Open Julia within the software hub
+3. Run the following command 
+
+```julia
+]add Pluto
+```
+4. press the *return* key  to run the command, and then the *backspace* key to exit the package manager):
+```julia
+using Pluto; Pluto.run()
+```
+
+
+
+<iframe style="width: 100%; aspect-ratio: 16/9;" src="https://drive.google.com/file/d/1wxzqYspjSPsyIxDBvxaRhhCFLAR_FJmA/view?usp=drive_link
+" title="Introductory video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# First-time setup on personal computer
+
+- *These installation instructions are copied fairly directly from the [similarly structured MIT course](https://computationalthinking.mit.edu/Fall23/installation/)*. Thanks for doing my work for me!
 
 {{< youtube OOjKEgbt8AI >}}
 

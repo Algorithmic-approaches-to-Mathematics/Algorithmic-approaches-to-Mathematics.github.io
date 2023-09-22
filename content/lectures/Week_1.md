@@ -2,10 +2,12 @@
 title: "Week 1"
 description: "Zoology of mathematics and computing"
 date: 2023-06-23T14:38:31+01:00
-draft: false
+draft: true
 summary-with-image: true
 mmark: true
 ---
+
+
 
 $$\varphi = \frac{1}{\varphi-1}$$
 
