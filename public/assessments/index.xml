@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Assessments on Algorithmic approaches to Mathematics</title>
+    <link>http://example.org/assessments/</link>
+    <description>Recent content in Assessments on Algorithmic approaches to Mathematics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 23 Jun 2023 14:46:44 +0100</lastBuildDate><atom:link href="http://example.org/assessments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Formative assessment</title>
+      <link>http://example.org/assessments/week1/</link>
+      <pubDate>Fri, 23 Jun 2023 19:40:06 +0100</pubDate>
+      
+      <guid>http://example.org/assessments/week1/</guid>
+      <description>&lt;img src=&#34;https://imgs.xkcd.com/comics/students.png&#34; alt=&#34;&#34;&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

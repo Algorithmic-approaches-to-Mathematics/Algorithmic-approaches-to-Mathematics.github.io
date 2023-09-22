@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en-gb">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Installation | Algorithmic approaches to Mathematics</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="description" content="Pluto and Julia on personal computers">
+    <meta name="generator" content="Hugo 0.114.0">
+    
+    
+    
+    
+      <meta name="robots" content="noindex, nofollow">
+    
+
+    
+<link rel="stylesheet" href="/ananke/css/main.min.css" >
+
+
+
+    
+    
+    
+      
+
+    
+
+    
+    
+    <meta property="og:title" content="Installation" />
+<meta property="og:description" content="Pluto and Julia on personal computers" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://example.org/prerequisites/installation/" /><meta property="article:section" content="prerequisites" />
+<meta property="article:published_time" content="2023-06-23T19:44:49+01:00" />
+<meta property="article:modified_time" content="2023-06-23T19:44:49+01:00" />
+<meta itemprop="name" content="Installation">
+<meta itemprop="description" content="Pluto and Julia on personal computers"><meta itemprop="datePublished" content="2023-06-23T19:44:49+01:00" />
+<meta itemprop="dateModified" content="2023-06-23T19:44:49+01:00" />
+<meta itemprop="wordCount" content="880">
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Installation"/>
+<meta name="twitter:description" content="Pluto and Julia on personal computers"/>
+
+	
+  </head>
+
+  <body class="ma0 avenir bg-near-white">
+
+    
+   
+  
+
+  <header>
+    <div class="bg-black">
+      <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l justify-between items-center center">
+    <a href="/" class="f3 fw2 hover-white no-underline white-90 dib">
+      
+        Algorithmic approaches to Mathematics
+      
+    </a>
+    <div class="flex-l items-center">
+      
+
+      
+        <ul class="pl0 mr3">
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/prerequisites/" title="Prerequisites page">
+              Prerequisites
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/notebooks/" title="Notebooks page">
+              Notebooks
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/lectures/" title="Lectures page">
+              Lectures
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/assessments/" title="Assessments page">
+              Assessments
+            </a>
+          </li>
+          
+        </ul>
+      
+      
+<div class="ananke-socials">
+  
+</div>
+
+    </div>
+  </div>
+</nav>
+
+    </div>
+  </header>
+
+
+
+    <main class="pb7" role="main">
+      
+  
+  <article class="flex-l flex-wrap justify-between mw8 center ph3">
+    <header class="mt4 w-100">
+      <aside class="instapaper_ignoref b helvetica tracked">
+          
+        PREREQUISITES
+      </aside>
+      
+
+
+
+
+
+
+
+
+
+
+  <div id="sharing" class="mt3 ananke-socials">
+    
+  </div>
+
+
+      <h1 class="f1 athelas mt3 mb1">Installation</h1>
+      
+      
+      
+      <time class="f6 mv4 dib tracked" datetime="2023-06-23T19:44:49+01:00">June 23, 2023</time>
+      
+
+      
+      
+    </header>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><!-- raw HTML omitted -->
+<figure><img src="https://imgs.xkcd.com/comics/installing_2x.png" width="200"/><figcaption>
+            <p>Attribution: <a href="https://imgs.xkcd.com/comics/installing_2x.png">xkcd 1367</a></p>
+        </figcaption>
+</figure>
+
+<h1 id="on-the-lab-computers">On the lab computers</h1>
+<p>Easiest is to watch this <a href="https://drive.google.com/file/d/1wxzqYspjSPsyIxDBvxaRhhCFLAR_FJmA/view?usp=drive_link">video</a>, courtesy of your wonderful TA: Enrico Caprioglio!</p>
+<p>But if you prefer written instructions&hellip;</p>
+<ol>
+<li>Open software hub</li>
+<li>Open Julia within the software hub</li>
+<li>Run the following command</li>
+</ol>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-julia" data-lang="julia"><span style="display:flex;"><span>]add Pluto
+</span></span></code></pre></div><ol start="4">
+<li>press the <em>return</em> key  to run the command, and then the <em>backspace</em> key to exit the package manager):</li>
+</ol>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-julia" data-lang="julia"><span style="display:flex;"><span><span style="color:#66d9ef">using</span> Pluto; Pluto<span style="color:#f92672">.</span>run()
+</span></span></code></pre></div><!-- raw HTML omitted -->
+<h1 id="first-time-setup-on-personal-computer">First-time setup on personal computer</h1>
+<ul>
+<li><em>These installation instructions are copied fairly directly from the <a href="https://computationalthinking.mit.edu/Fall23/installation/">similarly structured MIT course</a></em>. Thanks for doing my work for me!</li>
+</ul>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/OOjKEgbt8AI" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<!-- raw HTML omitted -->
+<p>\
+\
+\
+<strong>Text and pictures version:</strong></p>
+<h2 id="step-1-install-julia-hahahugoshortcodes3hbhb">Step 1: Install Julia <auto-julia-version>
+    1.9.3
+    </auto-julia-version></h2>
+<p>Go to <a href="https://julialang.org/downloads">https://julialang.org/downloads</a> and download the current stable release, Julia <auto-julia-version>
+    1.9.3
+    </auto-julia-version>, using the correct version for your operating system (Linux x86, Mac, Windows, etc).</p>
+<h2 id="step-2-run-julia">Step 2: Run Julia</h2>
+<p>After installing, <strong>make sure that you can run Julia</strong>. On some systems, this means searching for the &ldquo;Julia <auto-julia-version>
+    1.9.3
+    </auto-julia-version>&rdquo; program installed on your computer; in others, it means running the command <code>julia</code> in a terminal. Make sure that you can execute <code>1 + 1</code>:</p>
+<p><img src="https://user-images.githubusercontent.com/6933510/91439734-c573c780-e86d-11ea-8169-0c97a7013e8d.png" alt="image"></p>
+<p><em>Make sure that you are able to launch Julia and calculate <code>1+1</code> before proceeding!</em></p>
+<h2 id="step-3-install-plutohttpsgithubcomfonspplutojl">Step 3: Install <a href="https://github.com/fonsp/Pluto.jl"><code>Pluto</code></a></h2>
+<p>Next we will install the <a href="https://github.com/fonsp/Pluto.jl"><strong>Pluto</strong></a>, the notebook environment that we will be using during the course. Pluto is a Julia <em>programming environment</em> designed for interactivity and quick experiments.</p>
+<p>Open the <strong>Julia REPL</strong>. This is the command-line interface to Julia, similar to the previous screenshot.</p>
+<p>Here you type <em>Julia commands</em>, and when you press ENTER, it runs, and you see the result.</p>
+<p>To install Pluto, we want to run a <em>package manager command</em>. To switch from <em>Julia</em> mode to <em>Pkg</em> mode, type <code>]</code> (closing square bracket) at the <code>julia&gt;</code> prompt:</p>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<p>The line turns blue and the prompt changes to <code>pkg&gt;</code>, telling you that you are now in <em>package manager mode</em>. This mode allows you to do operations on <strong>packages</strong> (also called libraries).</p>
+<p>To install Pluto, run the following (case sensitive) command to <em>add</em> (install) the package to your system by downloading it from the internet.
+You should only need to do this <em>once</em> for each installation of Julia:</p>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<p>This might take a couple of minutes, so you can go get yourself a cup of tea!</p>
+<p><img src="https://user-images.githubusercontent.com/6933510/91440380-ceb16400-e86e-11ea-9352-d164911774cf.png" alt="image"></p>
+<p>You can now close the terminal.</p>
+<h2 id="step-4-use-a-modern-browser-mozilla-firefox-or-google-chrome">Step 4: Use a modern browser: Mozilla Firefox or Google Chrome</h2>
+<p>We need a modern browser to view Pluto notebooks with. Firefox and Chrome work best.</p>
+<h1 id="second-time-_running-pluto--opening-a-notebook_">Second time: <em>Running Pluto &amp; opening a notebook</em></h1>
+<p>Repeat the following steps whenever you want to work on a project or homework assignment.</p>
+<h2 id="step-1-start-pluto">Step 1: Start Pluto</h2>
+<p>Start the Julia REPL, like you did during the setup. In the REPL, type:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-julia" data-lang="julia"><span style="display:flex;"><span>julia<span style="color:#f92672">&gt;</span> <span style="color:#66d9ef">using</span> Pluto
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>julia<span style="color:#f92672">&gt;</span> Pluto<span style="color:#f92672">.</span>run()
+</span></span></code></pre></div><p><img src="https://user-images.githubusercontent.com/6933510/91441094-eb01d080-e86f-11ea-856f-e667fdd9b85c.png" alt="image"></p>
+<p>The terminal tells us to go to <code>http://localhost:1234/</code> (or a similar URL). Let&rsquo;s open Firefox or Chrome and type that into the address bar.</p>
+<p><img src="https://user-images.githubusercontent.com/6933510/199279574-4b1d0494-2783-49a0-acca-7b6284bede44.png" alt="image"></p>
+<blockquote>
+<p>If you&rsquo;re curious about what a <em>Pluto notebook</em> looks like, have a look at the <strong>Featured Notebooks</strong>. These notebooks are useful for learning some basics of Julia programming.</p>
+<p>If you want to hear the story behind Pluto, have a look a the <a href="https://www.youtube.com/watch?v=IAF8DjrQSSk">JuliaCon presentation</a>.</p>
+</blockquote>
+<p>If nothing happens in the browser the first time, close Julia and try again. And please let us know!</p>
+<h2 id="step-2a-opening-a-notebook-from-the-web">Step 2a: Opening a notebook from the web</h2>
+<p>This is the main menu - here you can create new notebooks, or open existing ones. Assignments will be provided in the form of notebooks: see menu bar at top right. To start from a template notebook on the web, you can <em>paste the URL into the blue box</em> and press ENTER.</p>
+<p>For example, the first Week 1 notebook is available <a href="/Answer_sheets/Week_1_answers.html">here</a>. Go to this page, and on the top right, click on the button that says &ldquo;Edit or run this notebook&rdquo;. From these instructions, copy the notebook link, and paste it into the box. Press ENTER, and select OK in the confirmation box.</p>
+<p><img src="https://user-images.githubusercontent.com/6933510/91441968-6b750100-e871-11ea-974e-3a6dfd80234a.png" alt="image"></p>
+<p><strong>The first thing we will want to do is to save the notebook somewhere on our own computer; see below.</strong></p>
+<h2 id="step-2b-opening-an-existing-notebook-file">Step 2b: Opening an existing notebook file</h2>
+<p>When you launch Pluto for the second time, your recent notebooks will appear in the main menu. You can click on them to continue where you left off.</p>
+<p>If you want to run a local notebook file that you have not opened before, then you need to enter its <em>full path</em> into the blue box in the main menu. More on finding full paths in step 3.</p>
+<h2 id="step-3-saving-a-notebook">Step 3: Saving a notebook</h2>
+<p>We first need a folder to save our homework in. Open your file explorer and create one.</p>
+<p>Next, we need to know the <em>absolute path</em> of that folder. Here&rsquo;s how you do that in <a href="https://www.top-password.com/blog/copy-full-path-of-a-folder-file-in-windows/">Windows</a>, <a href="https://www.josharcher.uk/code/find-path-to-folder-on-mac/">MacOS</a> and <a href="">Ubuntu</a>.</p>
+<p>For example, you might have:</p>
+<ul>
+<li>
+<p><code>C:\\Users\\fons\\Documents\\18S191_assignments\\</code> on Windows</p>
+</li>
+<li>
+<p><code>/Users/fons/Documents/18S191_assignments/</code> on MacOS</p>
+</li>
+<li>
+<p><code>/home/fons/Documents/18S191_assignments/</code> on Ubuntu</p>
+</li>
+</ul>
+<p>Now that we know the absolute path, go back to your Pluto notebook, and at the top of the page, click on <em>&ldquo;Save notebook&hellip;&rdquo;</em>.</p>
+<p><img src="https://user-images.githubusercontent.com/6933510/91444741-77fb5880-e875-11ea-8f6b-02c1c319e7f3.png" alt="image"></p>
+<p>This is where you type the <strong>new path+filename for your notebook</strong>:</p>
+<p><img src="https://user-images.githubusercontent.com/6933510/91444565-366aad80-e875-11ea-8ed6-1265ded78f11.png" alt="image"></p>
+<p>Click <em>Choose</em>.</p>
+<h2 id="step-4-sharing-a-notebook">Step 4: Sharing a notebook</h2>
+<p>After working on your notebook (your code is autosaved when you run it), you will find your notebook file in the folder we created in step 3. This the file that you can share with others, or submit as your homework assignment to Canvas.</p>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<ul class="pa0">
+  
+</ul>
+<div class="mt6 instapaper_ignoref">
+      
+      
+      </div>
+    </div>
+
+    <aside class="w-30-l mt6-l">
+
+
+
+
+</aside>
+
+  </article>
+
+    </main>
+    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+  <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+          tex2jax: {
+            
+            
+            processEscapes: true,
+            processEnvironments: true,
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'],
+            TeX: { equationNumbers: { autoNumber: "AMS" },
+            extensions: ["AMSmath.js", "AMSsymbols.js"] }
+            },
+          CommonHTML: { linebreaks: { automatic: true } },
+          "HTML-CSS": { linebreaks: { automatic: true } },
+          SVG: { linebreaks: { automatic: true } }
+        });
+      </script>
+  <script type="text/javascript" async
+    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML">
+    </script>
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="http://example.org/" >
+    &copy;  Algorithmic approaches to Mathematics 2023 
+  </a>
+    <div>
+<div class="ananke-socials">
+  
+</div>
+</div>
+  </div>
+</footer>
+
+<html>
+<body>
+</body>
+</html> 
+  </body>
+</html>
