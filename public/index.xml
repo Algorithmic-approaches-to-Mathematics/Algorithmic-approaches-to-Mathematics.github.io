@@ -8,15 +8,6 @@
     <language>en-gb</language>
     <lastBuildDate>Thu, 22 Jun 2023 17:40:20 +0100</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mathematical Prerequisites</title>
-      <link>http://example.org/prerequisites/mathematical_prerequisites/</link>
-      <pubDate>Fri, 22 Sep 2023 18:24:24 +0100</pubDate>
-      
-      <guid>http://example.org/prerequisites/mathematical_prerequisites/</guid>
-      <description>&lt;img src=&#34;https://imgs.xkcd.com/comics/average_familiarity.png&#34; alt=&#34;&#34;&gt;</description>
-    </item>
-    
-    <item>
       <title>Course etiquette</title>
       <link>http://example.org/prerequisites/asking_questions/</link>
       <pubDate>Fri, 22 Sep 2023 17:59:07 +0100</pubDate>
@@ -104,6 +95,15 @@
       
       <guid>http://example.org/notebooks/week_2/</guid>
       <description>&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/7/71/Serpiente_alquimica.jpg&#34; alt=&#34;image&#34;&gt;</description>
+    </item>
+    
+    <item>
+      <title>Mathematics Preliminaries</title>
+      <link>http://example.org/prerequisites/mathematics-preliminaries/</link>
+      <pubDate>Fri, 23 Jun 2023 19:45:18 +0100</pubDate>
+      
+      <guid>http://example.org/prerequisites/mathematics-preliminaries/</guid>
+      <description>&lt;img src=&#34;https://thumbs.dreamstime.com/b/old-rusty-retro-calculator-black-standing-wooden-table-keyboard-arithmometer-100083184.jpg&#34; alt=&#34;image&#34;&gt;</description>
     </item>
     
     <item>
