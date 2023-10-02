@@ -10,7 +10,7 @@ summary: '![image](https://thumbs.dreamstime.com/b/old-rusty-retro-calculator-bl
 
 As the name suggests, in this module there will be some mathematics. No prior knowledge of mathematical modelling, dynamical systems theory, probability, and statistics is assumed. However, if you haven't done any mathematics in a while and feel like you may find it useful to review some of the basics, this is the right place for that!
 
-Additionally, if you feel quite confortable with the maths content included in this webpage, we have also included more advanced resources that you may find helpful throughout the course and some (very nice) examples of mathematical modelling and complex systems. Although many of these won't be covered in depth, at the end of the course you will have all the necessary mathematical and computational tools to model and explore these systems and appreciate some cutting edge research questions in complexity science.
+Additionally, if you feel quite comfortable with the maths content included in this webpage, we have also included more advanced resources that you may find helpful throughout the course and some (very nice) examples of mathematical modelling and complex systems. Although many of these won't be covered in depth, at the end of the course you will have all the necessary mathematical and computational tools to model and explore these systems and appreciate some cutting edge research questions in complexity science.
 
 # Mathematical Foundations
 
