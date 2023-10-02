@@ -48,4 +48,4 @@ summary: '![image](https://cdn.britannica.com/00/110900-131-D91942A1/family-tree
 ## Credits 
 
 - Thanks to Giuseppe Castiglione, Enrico Caprioglio and Avel Guenin-Carlut for giving excellent feedback and checking the notebook..
-- Thanks to Giuseppe Castiglione for adding answers to the questions. 
+- Thanks to Giuseppe Castiglione for adding fantastic answers to the questions. 
