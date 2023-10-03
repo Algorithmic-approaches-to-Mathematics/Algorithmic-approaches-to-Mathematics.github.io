@@ -28,7 +28,14 @@ But if you prefer written instructions...
 4. press the *return* key  to run the command, and then the *backspace* key to exit the package manager):
 ```julia
 using Pluto; Pluto.run()
-```
+``````
+After a pause of a minute, a new window should open on your internet browser saying `Welcome to Pluto`.
+
+
+5. Now download the appropriate notebook: go to the notebooks, week 1 section of this website. Open the `questions` tab. Click `edit or run this notebook` on the top right. This gives you the option of downloading the notebook as a .jl file.
+
+6. Open your downloads folder. Drag the notebook.jl file that you downloaded onto your `Welcome to Pluto` page. That should open the notebook!
+
 
 
 
