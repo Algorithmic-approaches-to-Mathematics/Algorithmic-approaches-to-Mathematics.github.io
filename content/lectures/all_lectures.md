@@ -9,7 +9,7 @@ summary: '![image](https://junglekingdomteacher.files.wordpress.com/2017/05/e1e7
 
 I can't embed the lectures in this website. They are password protected. But I'll put the canvas links here.
 
-[Week 1]()
+[Week 1 slides](https://canvas.sussex.ac.uk/courses/27206/files?preview=4280552) & [Week 1 recording](https://sussex.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9f900b8d-e553-4023-adac-b091010a00fb) 
 
 [Week 2]()
 
