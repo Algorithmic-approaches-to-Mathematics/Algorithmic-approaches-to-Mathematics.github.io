@@ -10,6 +10,7 @@ summary: '![](https://imgs.xkcd.com/comics/questions.png)'
 - Ask questions on the padlet [here](https://uofsussex.padlet.org/draman2/mcmcs-23-24-nobpvtdw6hzblkkg) 
 - And in the lectures! Don't be shy. There is no stupid question. You are doing a favour for all other silent students who are thinking the same thing
 - There will be time after the lectures to ask questions privately / in groups if you so desire
+- Fernando will be available to answer specific questions during his office hours: 1500-1700 on Mondays, in Chichester 1, C1-160 (first floor, up stairs from reception) 
 
 
 {{< figure title="All questions are encouraged!" src="https://imgs.xkcd.com/comics/conference_question.png" width="200"  attr="Attribution: *xkcd 2191*">}}
@@ -42,11 +43,14 @@ Please try and sit next to different people each week. I'll give you some time e
     - **not get in a hole** of repeatedly trying and failing at a particular way of answering the question (usually due to anxiety and/or self-defeating time constraints)
 
 
- - **Do not get frustrated or anxious if things seem hard**. Maths takes time to sink in. I've seen very good mathematicians take a lot of time to absorb "easy" content. Relaxed, creative perseverance is a much more important quality than speed.
+ - I repeat. **Do not get frustrated or anxious if things seem hard**. Maths takes time to sink in. I've seen very good mathematicians take a lot of time to absorb "easy" content. Relaxed, creative perseverance is a much more important quality than speed.
 
  - And finally, as my old lecturer said:
 
- ## MATHS IS NOT A SPECTATOR SPORT
+ # MATHS IS NOT A SPECTATOR SPORT
 
  - People often go to lectures, read answers, or listen to their friends, and leave with a pleasant sense of having understood the material. 
- - **THEY DO NOT**. You only understand mathematics when you **DO IT!!!!**. Hence the notebooks are by far the most important part of the material.
+ 
+ **THEY DO NOT**. You only understand mathematics when you **DO IT!!!!**.
+ 
+Hence the notebooks are by far the most important part of the material.
