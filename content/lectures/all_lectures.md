@@ -11,8 +11,16 @@ I can't embed the lectures in this website. They are password protected. But I'l
 
 [Week 1 slides](https://canvas.sussex.ac.uk/courses/27206/files?preview=4280552) & [Week 1 recording](https://sussex.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9f900b8d-e553-4023-adac-b091010a00fb) 
 
-[Week 2]()
+---
 
+[Week 2](https://canvas.sussex.ac.uk/courses/27206/files?preview=4292544) & [Week 2 recording](https://sussex.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f08f4939-99da-4e08-9278-b09801095eb4#)
+
+Further reading for those interested includes:
+- [Performance tips](https://docs.julialang.org/en/v1/manual/performance-tips/)
+- [Deeper thoughts on memory management in Julia (and in general)](https://www.youtube.com/watch?v=M2i7sSRcSIw)
+- [Jax (JIT compiled Numpy with many extra goodies)](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html)
+
+---
 [Week 3]()
 
 [Week 4]()
