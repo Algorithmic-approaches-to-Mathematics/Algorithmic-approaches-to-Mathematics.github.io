@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lectures on Algorithmic approaches to Mathematics</title>
+    <link>http://example.org/lectures/</link>
+    <description>Recent content in Lectures on Algorithmic approaches to Mathematics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 22 Jun 2023 17:40:20 +0100</lastBuildDate><atom:link href="http://example.org/lectures/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>All lectures</title>
+      <link>http://example.org/lectures/all_lectures/</link>
+      <pubDate>Fri, 22 Sep 2023 17:42:06 +0100</pubDate>
+      
+      <guid>http://example.org/lectures/all_lectures/</guid>
+      <description>&lt;img src=&#34;https://junglekingdomteacher.files.wordpress.com/2017/05/e1e7a3418aae05f240f5034b5856846e_showing-post-media-for-teacher-lecture-cartoon-wwwcartoonsmixcom-boring-lecture-cartoon_500-367.jpeg&#34; alt=&#34;image&#34;&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -12,6 +12,8 @@ summary: '![image](https://cdn.britannica.com/00/110900-131-D91942A1/family-tree
 
 {{< figure src="https://cdn.britannica.com/00/110900-131-D91942A1/family-tree-animal-kingdom.jpg" width="500" attr="Attribution: *Encyclopædia Britannica, Inc*">}}
 
+
+
 ## Goals 
 
 - Introduction to using programming to solve mathematical problems
@@ -19,7 +21,12 @@ summary: '![image](https://cdn.britannica.com/00/110900-131-D91942A1/family-tree
 - Understanding the *zoology* of mathematical and programmatic objects you will have to work with
 - Introduction to the concept of a mathematically rigorous argument
 
+## Resources
 
+- [Think Julia](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html) is a great (online, freely available) textbook that will help consolidate your understanding. The following chapters will be useful background reading for this week (and may help with the exercises!!) 
+    - [Chapter 1: The way of the program](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html#chap01)
+    - [Chapter 2: Variables, Expressions, and Statements](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html#chap02)
+    - [Chapter 3: Functions](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html#chap03) 
 
 
 
@@ -33,6 +40,7 @@ summary: '![image](https://cdn.britannica.com/00/110900-131-D91942A1/family-tree
 - Make sure you have read through the prerequisites. In particular
 [Installation]({{< relref "/prerequisites/installation" >}} "About Us")
 
+- Make sure you're happy with markdown syntax. It should take 5 minutes to get the hang of it. EG [here](https://www.markdownguide.org/basic-syntax/)
 
 
 
@@ -40,4 +48,4 @@ summary: '![image](https://cdn.britannica.com/00/110900-131-D91942A1/family-tree
 ## Credits 
 
 - Thanks to Giuseppe Castiglione, Enrico Caprioglio and Avel Guenin-Carlut for giving excellent feedback and checking the notebook..
-- Thanks to Giuseppe Castiglione for adding answers to the questions. 
+- Thanks to Giuseppe Castiglione for adding fantastic answers to the questions. 
