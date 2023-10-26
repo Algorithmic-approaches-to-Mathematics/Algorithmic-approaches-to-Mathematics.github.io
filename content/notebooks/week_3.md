@@ -25,8 +25,23 @@ summary: '![image](https://imgs.xkcd.com/comics/matrix_transform.png)'
 - Another good 'standard' course is [by Gil Strang](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/video_galleries/video-lectures/).
 
 
+## Challenging, skippable questions
+#### (think of these questions as useful practice rather than core content)
 
+- The questions on building clocks
+- The question box about polynomials
+- The example on linear image transformations, and all the associated questions. 
+- The question box on the equivalence between abstract linear maps and matrices. It starts : *These questions assume vector spaces U...*
 
+## Ensure you're happy with these concepts
+
+- Understanding the dimensionality of tensors, and how to create (e.g. a 4d-tensor)
+Understanding the following concepts:
+- Vector spaces, the span of a vector space, the basis of a vector space
+- Linear dependence of a vector on other vectors
+- Matrix multiplication 
+- The concept of a linear transformation and its properties
+- Programming techniques seen in the answers. Particularly list comprehensions. 
 
 
 
