@@ -21,9 +21,19 @@ Further reading for those interested includes:
 - [Jax (JIT compiled Numpy with many extra goodies)](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html)
 
 ---
-[Week 3]()
+[Week 3](https://canvas.sussex.ac.uk/courses/27206/files?preview=4307068) & [Week 3 recording](https://sussex.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=096cdc9b-ed4f-415d-a56d-b09f0108978b)
 
-[Week 4]()
+
+---
+
+[Week 4](https://canvas.sussex.ac.uk/courses/27206/files?preview=4310915) & [Week 4 recording](https://sussex.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=56f8f7e4-2084-49e8-9a73-b0a6010983a2)
+
+
+- Alternatively/additionally check out the excellent [3blue1brown videos](https://www.3blue1brown.com/topics/linear-algebra) on linear algebra. Skip the videos on cross products and Cramer's rule.
+
+
+
+---
 
 [Week 5]()
 
