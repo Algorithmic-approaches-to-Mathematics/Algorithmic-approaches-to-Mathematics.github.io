@@ -35,7 +35,11 @@ Further reading for those interested includes:
 
 ---
 
-[Week 5]()
+[Week 5](https://canvas.sussex.ac.uk/courses/27206/files?preview=4324242) & [Week 5 recording](https://sussex.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=eee1cc6b-aa96-4b65-b8ce-b0ad0119d610)
+
+- [More insight](https://www.3blue1brown.com/lessons/pdfs) on zero probability events and probability density functions
+
+---
 
 [Week 6]()
 
