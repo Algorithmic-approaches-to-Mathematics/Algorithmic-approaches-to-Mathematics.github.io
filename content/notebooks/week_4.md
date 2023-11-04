@@ -2,7 +2,7 @@
 title: "Week 4"
 date: 2023-09-22T17:00:24+01:00
 draft: false
-summary: ' '
+summary: '![image](https://images.saatchiart.com/saatchi/947910/art/7233119/6302343-NYQQAJXB-7.jpg)'
 ---
 
 # Notebook 4
