@@ -41,7 +41,14 @@ Further reading for those interested includes:
 
 ---
 
-[Week 6]()
+[Week 6](https://canvas.sussex.ac.uk/courses/27206/files?preview=4339122) & [Week 6 recording](https://sussex.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b0a1e3a8-fc2e-489d-a0fa-b0b40118f432)
+
+Some links on reading mathematics that I thought were good: (there are lots online, of variable quality)
+
+- [Two page summary](https://pi.math.cornell.edu/~hubbard/readingmath.pdf)
+- [The top google result](https://web.stonehill.edu/compsci/history_math/math-read.htm) (which I nevertheless thought was insightful)
+
+---
 
 [Week 7]()
 
