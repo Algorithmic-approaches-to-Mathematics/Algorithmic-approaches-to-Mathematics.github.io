@@ -2,7 +2,7 @@
 title: "Week 5"
 date: 2023-09-22T17:00:27+01:00
 draft: false
-summary: ' '
+summary: '![]( https://imgs.xkcd.com/comics/probability.png) '
 ---
 
 # Notebook 5
