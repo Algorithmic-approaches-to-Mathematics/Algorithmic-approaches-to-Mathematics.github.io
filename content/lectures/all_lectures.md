@@ -48,6 +48,13 @@ Some links on reading mathematics that I thought were good: (there are lots onli
 - [Two page summary](https://pi.math.cornell.edu/~hubbard/readingmath.pdf)
 - [The top google result](https://web.stonehill.edu/compsci/history_math/math-read.htm) (which I nevertheless thought was insightful)
 
+Some links on probability from, as usual, 3blue1brown. The [overall course is here](https://www.3blue1brown.com/topics/probability). I recommend watching the entire thing if you have time and want to best understand probability. We couldn't cover all the basic topics in probability theory due to time constraints, so here are some videos particularly relevant to the lectures of the last two weeks:
+
+- [Central limit theorem intuition](https://www.3blue1brown.com/lessons/clt)
+- [More central limit theorem intuition](https://www.3blue1brown.com/lessons/gaussian-convolution)
+- [Bayes theorem](https://www.3blue1brown.com/lessons/bayes-theorem)
+- [Zero probability events are not impossible](https://www.3blue1brown.com/lessons/pdfs)
+
 ---
 
 [Week 7]()
