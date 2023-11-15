@@ -57,7 +57,25 @@ Some links on probability from, as usual, 3blue1brown. The [overall course is he
 
 ---
 
-[Week 7]()
+[Week 7]() & [Partial recording (slides)](https://sussex.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=34113202-9759-401b-a535-b0bb011a5e64) & [Partial recording (audio and room view)](https://sussex.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=802bb997-6718-41a3-babc-b0bb011a5a02)
+
+- Panopto wasn't fully working on the main screen this week, so the slides aren't visible on the room view recording. Instead, I also did a simultaneous recording on my laptop. 
+
+- Week 7 had a lot of content. A static, 1hr lecture is not the best way to parse it. I encourage you to watching the following videos, which have animations of the concepts, and collectively don't take much longer than an hour. **Collectively, they cover all of week 7**
+
+- [Basics of derivatives](https://www.youtube.com/watch?v=9vKqVkMQHKk&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&index=2)
+- [Derivative formulas for basic functions](https://www.youtube.com/watch?v=S0_qX4VJhMQ&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&index=3) (this is less important)
+- [Chain and product rule](https://www.youtube.com/watch?v=YG15m2VwSjA&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&index=4)
+- [Higher order derivatives](https://www.youtube.com/watch?v=BLkz5LGWihw&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&index=10)
+
+We talked about multivariable calculus at the end. This is hard to get your head around. If you're struggling with the previous concepts, leave it. Better to spend your time understanding the above fully. If you'd like to go for it, look below:
+
+- [Multivariable functions](https://www.youtube.com/watch?v=TrcCbdWwCBc&t=1s)
+- [Partial derivatives](https://www.youtube.com/watch?v=AXqhWeUEtQU) 
+- [Visualising partial derivatives](https://www.youtube.com/watch?v=dfvnCHqzK54&list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7&index=16)
+- [Partial derivatives 2](https://www.youtube.com/watch?v=kdMep5GUOBw&list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7&index=17)
+
+--- 
 
 [Week 8]()
 
