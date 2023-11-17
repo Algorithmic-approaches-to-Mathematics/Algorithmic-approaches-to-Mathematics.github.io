@@ -2,7 +2,7 @@
 title: "Week 6"
 date: 2023-09-22T17:00:29+01:00
 draft: false
-summary: ' '
+summary: '![](https://imgs.xkcd.com/comics/proofs.png) '
 ---
 
 # Notebook 6
