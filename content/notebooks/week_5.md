@@ -15,7 +15,7 @@ summary: '![](https://imgs.xkcd.com/comics/conditional_risk.png) '
 
 ## Goals 
 
-- See [notes](/content/lectures/all_lectures.md) attached to the lecture
+- See [notes](/lectures/all_lectures/) attached to the lecture
 
 
 ## Resources

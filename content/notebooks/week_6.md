@@ -20,7 +20,7 @@ summary: '![](https://imgs.xkcd.com/comics/proofs.png) '
 
 - Getting familiar with how differentiation works by getting your hands dirty! 
 
-- See [notes](/content/lectures/all_lectures.md) attached to the lecture
+- See [notes](/lectures/all_lectures/) attached to the lecture
 
 
 ## Resources
