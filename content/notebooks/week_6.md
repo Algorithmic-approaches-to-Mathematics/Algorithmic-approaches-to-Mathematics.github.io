@@ -13,9 +13,14 @@ summary: '![](https://imgs.xkcd.com/comics/proofs.png) '
 
 [Questions](/Question_sheets/Week_6_questions.html)             [Answers](/Answer_sheets/Week_6_answers.html)
 
+
+[Extra insight](/Question_sheets/Week_6_Extra.html) into the questions and into finite difference methods, made by Enrico 
+
 ## Goals 
 
+- Getting familiar with how differentiation works by getting your hands dirty! 
 
+- See [notes](/content/lectures/all_lectures.md) attached to the lecture
 
 
 ## Resources
