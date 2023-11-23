@@ -2,7 +2,7 @@
 title: "Week 7"
 date: 2023-09-22T17:00:31+01:00
 draft: false
-summary: ' '
+summary: '![](https://imgs.xkcd.com/comics/university_covid_model_2x.png) '
 ---
 
 # Notebook 7

@@ -57,7 +57,7 @@ Some links on probability from, as usual, 3blue1brown. The [overall course is he
 
 ---
 
-[Week 7]() & [Partial recording (slides)](https://sussex.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=34113202-9759-401b-a535-b0bb011a5e64) & [Partial recording (audio and room view)](https://sussex.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=802bb997-6718-41a3-babc-b0bb011a5a02)
+[Week 7](https://canvas.sussex.ac.uk/courses/27206/files?preview=4357193) & [Partial recording (slides)](https://sussex.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=34113202-9759-401b-a535-b0bb011a5e64) & [Partial recording (audio and room view)](https://sussex.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=802bb997-6718-41a3-babc-b0bb011a5a02)
 
 - Panopto wasn't fully working on the main screen this week, so the slides aren't visible on the room view recording. Instead, I also did a simultaneous recording on my laptop. 
 
@@ -77,7 +77,7 @@ We talked about multivariable calculus at the end. This is hard to get your head
 
 --- 
 
-[Week 8]()
+[Week 8](https://canvas.sussex.ac.uk/courses/27206/files?preview=4375352) & [Recording](https://sussex.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b3d083f8-52d8-4976-a872-b0c20119eb4b)
 
 [Week 9]()
 
