@@ -79,8 +79,29 @@ We talked about multivariable calculus at the end. This is hard to get your head
 
 [Week 8](https://canvas.sussex.ac.uk/courses/27206/files?preview=4375352) & [Recording](https://sussex.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b3d083f8-52d8-4976-a872-b0c20119eb4b)
 
-[Week 9]()
+[Week 9](https://canvas.sussex.ac.uk/courses/27206/files?preview=4394124) & [Recording](https://sussex.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=11766967-d04f-450d-ae29-b0c9011a54a5)
 
+Dynamical systems was a lot of content for two weeks. It can seem overwhelming. Here are some resources that might help:
+
+- [A high level tour of dynamical systems](https://www.youtube.com/watch?v=p_di4Zn4wz4)
+
+- Two terse blog posts that summarise the stability theory we did ([A](https://adipandas.github.io/posts/2020/02/stable-unstable-fixed-point/) and [B](https://adipandas.github.io/posts/2021/03/fixed-point-high-dim/))
+
+
+- [A great free online book](https://www.biodyn.ro/course/literatura/Nonlinear_Dynamics_and_Chaos_2018_Steven_H._Strogatz.pdf). The first 30 pages are useful. So are pages 125-134 for 2d systems such as the mass spring oscillator from class.
+
+Note that many online resources will talk about *Taylor series expansions*. This is just the approximation
+$$f(x + \delta x) \approx f(x) + \delta x^T \frac{\mathrm{d}f}{\mathrm{d}x}(x) + \dots $$,
+which we got when deriving the finite difference approximation of the derivative. The dots are complicated expressions that get very small as $$\delta x \to 0$$.
+
+Other tips if you're time constrained:
+- skip the interlude in the week 7 notebook, on numerical error in the forward euler algorithm
+- skim notebooks 7 and 8 before doing the questions. play with the sliders to get some intuition on phase portraits first.
+
+**If you've already done** this stuff and find it boring: I recommend going through [the Strogatz book](https://www.biodyn.ro/course/literatura/Nonlinear_Dynamics_and_Chaos_2018_Steven_H._Strogatz.pdf)
+
+
+---
 [Week 10]()
 
  [Test canvas link](https://sussex.cloud.panopto.eu/Panopto/Pages/Auth/Login.aspx?Auth=SessionView&ReturnUrl=%2fPanopto%2fPages%2fViewer.aspx%3fid%3d4cdfc937-14d6-4587-92da-af6200d7b643) seems to work

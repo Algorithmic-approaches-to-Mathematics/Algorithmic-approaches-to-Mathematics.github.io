@@ -24,3 +24,5 @@ summary: '![](https://imgs.xkcd.com/comics/university_covid_model_2x.png) '
 
 
 ## Credits
+
+Thanks to Enrico Caprioglio and Pawel Piekarz for making the answers!
