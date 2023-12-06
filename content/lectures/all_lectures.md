@@ -102,9 +102,19 @@ Other tips if you're time constrained:
 
 
 ---
-[Week 10]()
+[Week 10](https://canvas.sussex.ac.uk/courses/27206/files?preview=4416766) & [Recording](https://sussex.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=96138c31-63a7-4604-8b30-b0d00119e695)
 
- [Test canvas link](https://sussex.cloud.panopto.eu/Panopto/Pages/Auth/Login.aspx?Auth=SessionView&ReturnUrl=%2fPanopto%2fPages%2fViewer.aspx%3fid%3d4cdfc937-14d6-4587-92da-af6200d7b643) seems to work
+- I've made a [lecture companion](/Question_sheets/Week_9_companion.html) notebook that goes through the workings/plots of the lecture
+
+- The lecture companion also has links to two youtube videos that illustrate the concepts introduced today, nicely.
+
+- If you really wanted to stretch yourself and understand the massive, practically, important field of convex optimisation, you would read [this 700 page book](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf), which would be required reading if you were to do a PhD on the topic.  
+
+- Obviously this would be a pretty niche interest. But in any case the short introduction of the book is worth reading.
+
+- Two youtube videos [1](https://www.youtube.com/watch?v=ux7EQ3ip2DU) and [2](https://www.youtube.com/watch?v=ux7EQ3ip2DU) that are also embedded in the lecture companion.
+---
+
 
 
 
