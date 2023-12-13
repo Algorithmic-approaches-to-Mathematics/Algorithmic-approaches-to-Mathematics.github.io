@@ -2,7 +2,7 @@
 title: "Week 8"
 date: 2023-09-22T17:00:34+01:00
 draft: false
-summary: ' '
+summary: '![](https://i.imgflip.com/ufpgu.jpg)'
 ---
 
 # Notebook 8

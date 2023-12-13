@@ -2,7 +2,7 @@
 title: "Week 9"
 date: 2023-09-22T17:00:36+01:00
 draft: false
-summary: ' ' 
+summary: '![](https://orbythebeach.files.wordpress.com/2012/01/yoda.png)' 
 ---
 
 # Notebook 9
@@ -22,4 +22,4 @@ summary: ' '
 
 ## Credits
 
-- Giuseppe Castiglione (TA) for writing the awesome, optional noteobok!
+- Giuseppe Castiglione (TA) for writing the awesome, optional notebook!
