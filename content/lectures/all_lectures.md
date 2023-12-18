@@ -116,7 +116,7 @@ Other tips if you're time constrained:
 ---
 
 
-
+[Week 11](https://canvas.sussex.ac.uk/courses/27206/files/folder/Lectures?preview=4452081) & [recording](https://sussex.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f38d9eb7-a9c9-4b46-8e63-b0d70118b1ce)
 
 
 {{< figure src="https://brownsharpie.courtneygibbons.org/wp-content/comics/2008-09-29-teaching-1.jpg" width="500" attr="Attribution: *Brown sharpie (Courtney Gibbons)*">}}
